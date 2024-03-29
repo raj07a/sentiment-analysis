@@ -1,4 +1,4 @@
-#Sentiment Analysis with LSTM
+**#Sentiment Analysis with LSTM**
 This project aims to perform sentiment analysis on airline tweets using Long Short-Term Memory (LSTM) neural networks. Sentiment analysis is a natural language processing task where the sentiment expressed in a piece of text is classified into categories such as positive, negative, or neutral.
 
 Features
